@@ -8,4 +8,4 @@ Below is the map screenshot of OSM :
 
 <img src="https://raw.githubusercontent.com/parthoiiitm/Data-Wrangling-with-OpenStreetMap/master/tempe_screenshot.png" width="500" height="500" />
 
-Please go through .ipynb file for descrition and python code
+Please go through .ipynb file for description and python code

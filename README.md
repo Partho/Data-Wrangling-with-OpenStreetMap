@@ -6,6 +6,6 @@ For this project, I have downloaded sample size of Phoenix metropolitan area, pr
 
 Below is the map screenshot of OSM :
 
-<img src="https://raw.githubusercontent.com/parthoiiitm/Data-Wrangling-with-OpenStreetMap/master/tempe_screenshot.png" width="700" height="500" />
+<img src="https://raw.githubusercontent.com/parthoiiitm/Data-Wrangling-with-OpenStreetMap/master/tempe_screenshot.png" width="500" height="300" />
 
 Please go through .ipynb file for description and python code
